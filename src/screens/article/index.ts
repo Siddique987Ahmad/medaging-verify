@@ -1,0 +1,1 @@
+export { ArticleDetailScreen } from './ArticleDetailScreen';
